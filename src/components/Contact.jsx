@@ -117,7 +117,7 @@ const Contact = () => {
 
           <ul className="flex flex-col gap-4 text-secondary mb-8">
             <li>📞 <a href="tel:+917634003364">+91 7634003364</a></li>
-            <li>📧 safaranokhi@gmail.com</li>
+            <li>📧 shubhamthakur9771@gmail.com</li>
 
             <li>
               💼{" "}
